@@ -1,0 +1,57 @@
+.d-flex {
+  display: flex;
+}
+.p-2 {
+  padding: 20px;
+}
+.m-2 {
+  margin-right: 20px;
+}
+.container {
+  width: 1320px;
+  margin: 0 auto;
+  padding: 0px 14px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -14px;
+}
+.box4 {
+  width: 33.33%;
+}
+.bg {
+  background-color: #000;
+  aspect-ratio: 1/1;
+  border-radius: 16px;
+  object-fit: cover;
+  overflow: hidden;
+}
+.card {
+  color: white;
+  width: 75%;
+  background-color: rgba(128, 128, 128, 0.849);
+  text-align: center;
+  height: 40%;
+  padding: 10px;
+  border-radius: 12px;
+  
+}
+.align-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.nelson{
+  margin-bottom: 10px;
+}
+.frame{
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
